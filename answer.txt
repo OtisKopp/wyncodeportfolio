@@ -1,0 +1,14 @@
+My First User Story
+
+As a: Customer
+I want to: Rent a car
+So that: I can drive to Boston
+Scenarios:
+- The rental company is out of cars
+- I don’t have enough money to pay for the rental
+- I can afford the rental
+
+
+Estimate-Ability
+I have a tendency to underestimate tasks.
+
